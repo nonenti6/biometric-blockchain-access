@@ -1,0 +1,19 @@
+# Секреты подключения
+.env
+.env.*
+!.env.example
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Служебные файлы Python
+__pycache__/
+*.pyc
+
+# Настройки PyCharm
+.idea/
+
+# Локальные файлы
+*.log
+.DS_Store
